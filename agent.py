@@ -5,7 +5,7 @@ E-Commerce FAQ Bot — Production Agent Module
 Domain  : E-Commerce (ShopEase India)
 User    : Online shoppers
 Tool    : Web Search (DuckDuckGo — no API key required)
-LLM     : Groq  llama3-8b-8192
+LLM     : Groq  llama-3.1-8b-instant
 Vector  : ChromaDB (in-memory)
 Embedder: all-MiniLM-L6-v2
 
